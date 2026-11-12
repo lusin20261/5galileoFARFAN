@@ -1,0 +1,8 @@
+print ("=======BIENVENIDOS A MI CALCULADORA =======")
+a = input ("ingresa primer número:")
+b = input ("ingresa segundo número:")
+a = int (a)
+b = int (b)
+print ("la multiplicación es :", a*b)
+print ("la divición es:",a/b)
+print ("=======GRACIAS=======")
